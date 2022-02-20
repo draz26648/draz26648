@@ -29,5 +29,5 @@
 <p align="left"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dart.svg" alt="Dart" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="Django" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg" alt="figma" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg" alt="firebase" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="flutter" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sketch.svg" alt="sketch" width="22" height="22"/> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draz26648&layout=compact&hide=html" alt="Mohamed Draz" /></p>
----
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=draz26648&show_icons=true" alt="Mohamed Draz" /></p>
