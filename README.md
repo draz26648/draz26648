@@ -1,36 +1,33 @@
-# Hi there, I'm Mohamed - aka [Draz] 👋
+<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h3 align="center">A self-taught programmer </h3>
 
-## I'm a Photographer and Developer!!
+![Twitter Follow](https://img.shields.io/twitter/follow/drazph?label=draz.ph&logo=twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/draz26648?logo=GitHub&style=for-the-badge)
 
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on Freelancer
+
+- 🌱 I’m currently learning **Flutter, Python**
+
 - 🥅 2022 Goals: Learn more about Flutter
-- ⚡ Fun fact: I love to draw and play flute
+
+- ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
+
 - 😻 Check out the NFT collection I created: [Gambol Pixels](https://opensea.io/collection/gambol-pixels?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/drazph#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/drazph#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mohamed-draz-836a4b199#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mohamed-draz-836a4b199#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/draz.ph#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/draz.ph#gh-dark-mode-only)
+<a href="https://twitter.com/drazph" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Draz" height="22" width="22" /></a>
+<a href="https://linkedin.com/in/mohamed-draz-836a4b199" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Draz" height="22" width="22" /></a>
+<a href="https://instagram.com/draz.ph" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Draz" height="22" width="22" /></a>
+
 
 <br />
-<br />
 
----
+### Languages and Tools:
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p align="left"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dart.svg" alt="Dart" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="Django" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg" alt="figma" width="22" height="22"/> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/> </p>
 
-  <img align="left" alt="draz26648 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=draz26648&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draz26648&layout=compact&hide=html" alt="Mohamed Draz" /></p>
 
-</details>
-
-[twitter]: https://twitter.com/drazph
-[instagram]: https://instagram.com/draz.ph
-[linkedin]: https://www.linkedin.com/in/mohamed-draz-836a4b199/
-[facebook]: https://www.facebook.com/draz26648/
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=draz26648&show_icons=true" alt="Mohamed Draz" /></p>
