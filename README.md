@@ -10,7 +10,7 @@
 
 - 🥅 2022 Goals: Learn more about Flutter
 
-- ⚡ Fun fact **I love to play Badminton and Chai over coffee.**
+- ⚡ Fun fact **I love to play to draw and play flute.**
 
 - 😻 Check out the NFT collection I created: [Gambol Pixels](https://opensea.io/collection/gambol-pixels?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
