@@ -4,15 +4,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/drazph?label=draz.ph&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/draz26648?logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on Freelancer
-
-- 🌱 I’m currently learning **Flutter, Python**
-
-- 🥅 2022 Goals: Learn more about Flutter
-
-- ⚡ Fun fact **I love to play to draw and play flute.**
-
-- 😻 Check out the NFT collection I created: [Gambol Pixels](https://opensea.io/collection/gambol-pixels?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+* Software Engineer
+* Senior Flutter Developer
 
 
 ### Connect with me:
