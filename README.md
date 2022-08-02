@@ -12,7 +12,7 @@
 
 <a href="https://twitter.com/drazph" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Draz" height="22" width="22" /></a>
 <a href="https://linkedin.com/in/mohamed-draz-836a4b199" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Draz" height="22" width="22" /></a>
-<a href="https://instagram.com/draz.ph" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Draz" height="22" width="22" /></a>
+</a>
 
 
 <br />
