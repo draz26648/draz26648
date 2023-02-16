@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A self-taught programmer </h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/drazph?label=draz.ph&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/draz26648?logo=GitHub&style=for-the-badge)
