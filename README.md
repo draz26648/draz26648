@@ -9,7 +9,7 @@
 ## 🔗 Connect with me
 <p>
 <a href="http://Wa.me/201028246703" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
-<a href="https://www.facebook.com/draz26648" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+
 <a href="https://linkedin.com/in/mohamed-draz-836a4b199" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <p>
  
