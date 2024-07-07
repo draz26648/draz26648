@@ -65,50 +65,10 @@ bimaristan is an online education application that displays content including vi
 
 <hr>
 
-### My Daily (To Do List) | يومياتى
-
-My Daily is an application that reminds you of important daily tasks that you perform and also you can add different shapes.
-<p><a href="https://apps.apple.com/app/best-todo-ios-app/id1599724320?fbclid=IwAR2noFyHk8RswHUdO2fteFTAZKhdFqQpxQ78MXVuNJb7RZw0h-F0eaQf0Rs" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### BMI Disease Tracker
-
-IIt is an application that tracks body mass and vital processes inside the body and records this information in the database. An artificial intelligence server reads the information and if something different appears, it warns the person.
-
-<hr>
-
-
-### Anti-Monkeypox
-
-It is an application in which the user enters the symptoms that he feels and on it, the application compares the internal information and gives him advice.
-
-<hr>
-
-### Longevity Coin
-
-It is an application that buys and sells crypto currencies, mines the Longevity coin, and follows the currency market.
-
-<hr>
-
-### Anti-Coronavirus
-
-It is an application in which the user enters the symptoms that he feels and on it, the application compares the internal information and gives him advice.
-
-<hr>
-
 ### One Soul
 
 It is a mobile application that integrates youth into employment marketing, encourages them to volunteer and develops themselves, and sets clear maps and criteria for volunteer and educational work by linking them to various opportunities and courses with educational institutions and civil society organizations. Encouraging young people through a points system that can be exchanged for some things such as discounts for educational centers.
 <p><a href="https://play.google.com/store/apps/details?id=com.josequal.one_soul&hl=ar&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/jo/app/one-soul-platform/id1613708979?l=ar" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### Bean
-
-It is a mobile application that helps young people and companies to reach each other by displaying special skills and established projects. Companies can communicate with the manufacturer and hire them to work on a project of their own. The application secures the payments between the two parties smoothly and safely.
-
-<hr>
 
 <hr>
 
