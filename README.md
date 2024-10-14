@@ -55,6 +55,7 @@ Habel Web Admin Panel for employees.
 - [LinkedIn](https://www.linkedin.com/in/draz26648/)
 - [GitHub](https://github.com/draz26648)
 - [Email](mailto:mohamed.draz1198@gmail.com)
+- [WhatsApp](http://Wa.me/201028246703)
 
 ## 🎾 Interests:
 I’m passionate about **AI** and enjoy exploring **mobile animations**.
