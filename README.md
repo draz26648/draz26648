@@ -51,6 +51,20 @@ Biotic Web Admin Panel for employees.
 Habel Web Admin Panel for employees.
 
 
+## 📦 Packages
+
+- [**Screenwise**](https://pub.dev/packages/screenwise):
+A Flutter package providing responsive widgets that automatically adapt to different screen sizes without manual if/else statements. This package is specifically designed to make your Flutter applications look great on both mobile and web platforms without writing platform-specific code.
+- [**Flutter 3D AR Converter**](https://pub.dev/packages/flutter_3d_ar_converter):
+A Flutter package for converting 2D images to 3D models with AR visualization capabilities. This package integrates native AR technologies (ARKit for iOS and ARCore for Android) to provide immersive AR experiences. It allows you to:
+ 1- Convert furniture images to 3D models and place them in your real-world environment using AR
+ 2- Convert glasses/eyewear images to 3D models and try them on your face using face tracking (iOS only)
+ 3- Convert generic objects to 3D models for AR visualization.
+- [**Tensorflow Lite Flutter**](https://pub.dev/packages/tensorflow_lite_flutter):
+A comprehensive Flutter plugin for accessing TensorFlow Lite API. This plugin provides a Dart interface to TensorFlow Lite models, allowing Flutter apps to perform on-device machine learning with high performance and low latency.
+
+
+
 ## 🌱 I’m currently learning:
 - AI integration in front-end **(Mobile/Web)** development
 - Clean Craftsmanship (Book)
