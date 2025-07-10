@@ -6,7 +6,7 @@ I specialize in **Flutter development** and have over **6 years** of experience 
 
 ## 💻 My Tech Stack:
 - **Mobile:** Flutter, Dart, Android (Kotlin/Java)
-- **Backend:** Node.js, Ruby On Rails, Firebase, Dart
+- **Backend:** Node.js(Nest.js, Express.js), Ruby On Rails, Firebase, Dart
 - **DevOps:** Docker, CircleCI, Fastlane
 - **State Management:** BLoC, Cubit, Provider, GetX, Riverpod
 - **Testing:** Unit Testing, Integration Testing
