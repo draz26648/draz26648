@@ -31,6 +31,8 @@ Imagine a fresh look, crazy-fast speed, and an exceptional user experience – a
 Plus, the real kicker? Loads more fantastic deals coming your way!.
 - [**BIOTIC بَيوتك**](https://apps.apple.com/eg/app/biotic-%D8%A8-%D9%80%D9%80%D9%8A%D9%88%D8%AA%D9%83/id6446063607):
  َBiotech, the first health market in Saudi Arabia and a leading brand in the field of health, specialized in all kinds of healthy alternatives, multiple diets, complementary accessories, as well as care and beauty products.
+- [**Pickappo**](https://play.google.com/store/apps/details?id=com.pickappo.pickappo):
+ Pickappo is a fast-delivery and logistics management platform designed for the Arab region. It connects delivery apps, restaurants, e-commerce stores, logistics companies, and courier service providers into a unified system. The app focuses on reducing driver fragmentation, improving efficiency, and streamlining operations to maximize delivery benefits.
 - [**Biotic Employee**](https://apps.apple.com/eg/app/biotic-employee/id6445995964):
 Biotech, the first health market in Saudi Arabia and a leading brand in the field of health, specialized in all kinds of healthy alternatives, multiple diets, complementary accessories, as well as care and beauty products.
 - [**Habel | حبل**](https://apps.apple.com/sa/app/habel-%D8%AD%D8%A8%D9%84/id1671346670):
