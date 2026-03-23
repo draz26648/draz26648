@@ -29,6 +29,9 @@ Plus, the real kicker? Loads more fantastic deals coming your way!.
 We’re here to make sure you score savings on every online order.
 Imagine a fresh look, crazy-fast speed, and an exceptional user experience – all bundled up for you.
 Plus, the real kicker? Loads more fantastic deals coming your way!.
+- [**Just.credit**](https://apps.apple.com/eg/app/just-credit/id6759523266):
+Just Credit is an advertising infrastructure platform that provides businesses and agencies with high-trust, certified ad accounts across major platforms like Meta, Google, TikTok, and Snapchat — all managed from a single unified dashboard.
+It solves common issues in digital advertising such as account bans, spending limits, and fragmented billing by offering agency-level accounts with pre-approved trust scores and reliable performance.
 - [**BIOTIC بَيوتك**](https://apps.apple.com/eg/app/biotic-%D8%A8-%D9%80%D9%80%D9%8A%D9%88%D8%AA%D9%83/id6446063607):
  َBiotech, the first health market in Saudi Arabia and a leading brand in the field of health, specialized in all kinds of healthy alternatives, multiple diets, complementary accessories, as well as care and beauty products.
 - [**Pickappo**](https://play.google.com/store/apps/details?id=com.pickappo.pickappo):
