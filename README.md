@@ -29,6 +29,9 @@ Plus, the real kicker? Loads more fantastic deals coming your way!.
 We’re here to make sure you score savings on every online order.
 Imagine a fresh look, crazy-fast speed, and an exceptional user experience – all bundled up for you.
 Plus, the real kicker? Loads more fantastic deals coming your way!.
+- [**Just.ad**](https://apps.apple.com/us/app/just-ad/id6757669941):
+Just Ad is an AI-powered advertising platform that helps teams manage campaigns, analyze performance, and generate actionable insights in one place.  
+It brings together ad account connectivity, campaign tracking, smart recommendations, and AI chat tools to simplify digital marketing workflows.
 - [**Just.credit**](https://apps.apple.com/eg/app/just-credit/id6759523266):
 Just Credit is an advertising infrastructure platform that provides businesses and agencies with high-trust, certified ad accounts across major platforms like Meta, Google, TikTok, and Snapchat — all managed from a single unified dashboard.
 It solves common issues in digital advertising such as account bans, spending limits, and fragmented billing by offering agency-level accounts with pre-approved trust scores and reliable performance.
