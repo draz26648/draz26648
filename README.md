@@ -19,7 +19,7 @@ I've spent more than eight years working with Flutter, alongside native Android 
 
 | **8+ years** | **Mobile + web** | **Flutter + Android + IOS** |
 | :---: | :---: | :---: |
-| Flutter experience | Applications | Kotlin and Java |
+| Flutter experience | Applications | Kotlin, Java and Swift |
 
 ## Flutter packages
 
