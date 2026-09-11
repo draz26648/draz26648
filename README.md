@@ -34,6 +34,8 @@ It brings together ad account connectivity, campaign tracking, smart recommendat
 - [**Just.credit**](https://apps.apple.com/eg/app/just-credit/id6759523266):
 Just Credit is an advertising infrastructure platform that provides businesses and agencies with high-trust, certified ad accounts across major platforms like Meta, Google, TikTok, and Snapchat — all managed from a single unified dashboard.
 It solves common issues in digital advertising such as account bans, spending limits, and fragmented billing by offering agency-level accounts with pre-approved trust scores and reliable performance.
+- [**Tawla-طاوله**](https://apps.apple.com/us/app/tawla-%D8%B7%D8%A7%D9%88%D9%84%D9%87/id6795340380):
+Tawla | طاولة is an Arabic-first Egyptian backgammon game for Android and iOS, built with Flutter and Flame. Play Mahbusa and 31 in virtual cafés, challenge friends in real-time matches, or practice against computer opponents. Features include voice chat, leaderboards, match replays, and move ratings—all inspired by Egypt’s café culture.
 - [**BIOTIC بَيوتك**](https://apps.apple.com/eg/app/biotic-%D8%A8-%D9%80%D9%80%D9%8A%D9%88%D8%AA%D9%83/id6446063607):
  َBiotech, the first health market in Saudi Arabia and a leading brand in the field of health, specialized in all kinds of healthy alternatives, multiple diets, complementary accessories, as well as care and beauty products.
 - [**Pickappo**](https://play.google.com/store/apps/details?id=com.pickappo.pickappo):
