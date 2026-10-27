@@ -1,7 +1,7 @@
 
 🚀 **Senior Software Engineer | Flutter Expert | Full-Stack Developer**
 
-I specialize in **Flutter development** and have over **7 years** of experience working with **Flutter**, alongside expertise in **Android development** with **Java and Kotlin**. I’m passionate about building mobile and web applications with clean, efficient, and scalable code.
+I specialize in **Flutter development** and have over **8 years** of experience working with **Flutter**, alongside expertise in **Android development** with **Java and Kotlin**. I’m passionate about building mobile and web applications with clean, efficient, and scalable code.
 
 ## 💻 My Tech Stack:
 - **Mobile:** Flutter, Dart, Android (Kotlin/Java)
